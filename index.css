@@ -6,7 +6,7 @@
   padding: 20px;
   font-family: sans-serif;
   border-radius: 20px;
-  box-shadow: 10px 10px 30px 10px rgb(74, 72, 72); /* Default font */
+  box-shadow: 2px 2px 20px 1px rgb(74, 72, 72);/* Default font */
   background-color: #2b4450;
   color: white;
 }
